@@ -11,10 +11,10 @@ Lastly, when user click one of articles, the article will be shown through webvi
   
   <ul>The app uses third party libraries such as:
   
-      Picasso for easily fetching images from URL's.
-      Retrofit2 to fetch data. 
-      Paper for Cache. 
-      Diagonal layout. 
-      Kenburns Effect. 
-      Recycler View and View click.
+     - Picasso for easily fetching images from URL's.
+     - Retrofit2 to fetch data. 
+     - Paper for Cache. 
+     - Diagonal layout. 
+     - Kenburns Effect. 
+     - Recycler View and View click.
   </ul>
