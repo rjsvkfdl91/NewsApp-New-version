@@ -6,17 +6,15 @@ In the newList activity, the latest article is shown at Diagonal Layout with Ken
 Lastly, when user click one of articles, the article will be shown through webview.
 
 
-## NewsApp with News API
+## With News API and Libraries
   - http://newsapi.org
-
-
-###Libraries
-
-The app uses third party libraries such as:
-
-Picasso for easily fetching images from URL's. <br>
-Retrofit2 to fetch data. <br>
-Paper for Cache. <br>
-Diagonal layout. <br>
-Kenburns Effect. <br>
-Recycler View and View click.
+  
+  <ul>The app uses third party libraries such as:
+  
+      <li>Picasso for easily fetching images from URL's.</li> <br>
+      Retrofit2 to fetch data. <br>
+      Paper for Cache. <br>
+      Diagonal layout. <br>
+      Kenburns Effect. <br>
+      Recycler View and View click.
+  </ul>
