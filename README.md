@@ -5,6 +5,7 @@ When user select one of sources, the app shows many articles according to the so
 In the newList activity, the latest article is shown at Diagonal Layout with Kenburns effect to make it better.<br>
 Lastly, when user click one of articles, the article will be shown through webview.
 
+<br><br>
 
 ## News API and Libraries
   - http://newsapi.org
@@ -18,6 +19,8 @@ Lastly, when user click one of articles, the article will be shown through webvi
      - Kenburns Effect. 
      - Recycler View and View click.
   </ul>
+
+<br><br>
 
 
 ## ScreentShots
