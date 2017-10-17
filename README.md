@@ -6,7 +6,7 @@ In the newList activity, the latest article is shown at Diagonal Layout with Ken
 Lastly, when user click one of articles, the article will be shown through webview.
 
 
-## With News API and Libraries
+## News API and Libraries
   - http://newsapi.org
   
   <ul>The app uses third party libraries such as:
