@@ -24,5 +24,7 @@ Lastly, when user click one of articles, the article will be shown through webvi
 
 <img src="main.png" width="150">   <img src="loading.png" width="150">  <img src="articles.png" width="150"> <img src="articles2.png" width="150"> <img src="content.png" width="150">
 
+Main Image      Loading Image    Articles Image   Another Source Articles Image   Article Content Image
+
 
 
