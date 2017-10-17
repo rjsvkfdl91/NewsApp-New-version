@@ -18,3 +18,8 @@ Lastly, when user click one of articles, the article will be shown through webvi
      - Kenburns Effect. 
      - Recycler View and View click.
   </ul>
+
+
+## Screent Shots
+
+  <img src="articles.png" width="150">
