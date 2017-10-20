@@ -10,7 +10,7 @@ Lastly, when user click one of articles, the article will be shown through webvi
 ## News API and Libraries
   - http://newsapi.org
   
-  <ul>The app uses third party libraries such as:
+  <ul>I used third party libraries for this app such as:
   
      - Picasso for easily fetching images from URL's.
      - Retrofit2 to fetch data. 
