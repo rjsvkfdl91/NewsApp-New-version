@@ -1,4 +1,4 @@
-# NewsApp-Upgraded Version
+# NewsApp - New version
 
 The main activity is composed of many new sources.<br>
 When user select one of sources, the app shows many articles according to the source user choose.<br>
